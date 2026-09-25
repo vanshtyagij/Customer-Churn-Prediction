@@ -78,5 +78,5 @@ pip install -r requirements.txt
 4. Run the notebook cells in order.
 
 ## Project Type
-Machine Learning Internship Project
+Machine Learning Project
 
